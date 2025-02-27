@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tráfego Tático - Mais Clientes com Anúncios Estratégicos</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        .container { width: 80%; margin: auto; text-align: center; }
+        .header { background-color: #002f6c; color: #fff; padding: 20px; }
+        .cta { background-color: #008037; color: #fff; padding: 20px; font-size: 22px; }
+        .benefits { background-color: #fff; padding: 30px; }
+        .benefit { margin: 20px 0; }
+        .form-container { background-color: #ccc; padding: 30px; }
+        .form-container input, .form-container button {
+            width: 80%; padding: 10px; margin: 10px 0; border: none;
+        }
+        .form-container button { background-color: #008037; color: white; cursor: pointer; }
+        .footer { background-color: #002f6c; color: white; padding: 20px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚀 Atraia Mais Clientes com Tráfego Pago!</h1>
+        <p>Consultoria rápida para aumentar suas vendas com anúncios estratégicos.</p>
+    </div>
+    
+    <div class="container">
+        <div class="cta">
+            <h2>Quer mais clientes? Agende uma consultoria gratuita agora! 📩</h2>
+        </div>
+        
+        <div class="form-container">
+            <h3>Cadastre-se e receba sua análise personalizada:</h3>
+            <form>
+                <input type="text" placeholder="Seu Nome" required>
+                <input type="email" placeholder="Seu E-mail" required>
+                <input type="tel" placeholder="Seu WhatsApp" required>
+                <button type="submit">Quero Minha Consultoria!</button>
+            </form>
+        </div>
+        
+        <div class="benefits">
+            <h2>Por que escolher a Tráfego Tático?</h2>
+            <div class="benefit">🎯 Estratégias personalizadas para seu negócio</div>
+            <div class="benefit">📈 Resultados rápidos e previsíveis</div>
+            <div class="benefit">💰 Investimento otimizado para máximo ROI</div>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p>Tráfego Tático - Alcance. Engaje. Converta.</p>
+    </div>
+</body>
+</html>
